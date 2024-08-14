@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class CoordinacionApplication
 
 fun main(args: Array<String>) {
+	//print("tkm chinito")
 	runApplication<CoordinacionApplication>(*args)
 }
